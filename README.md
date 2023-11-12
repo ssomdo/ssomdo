@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   
   ### ✨ssomdo✨
@@ -19,10 +17,14 @@
   <br>
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=SpringFramework&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-E6B91E?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ajax-E6B91E?style=flat-square&logo=Ajax&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/jQuery-E6B91E?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ajax-007396?style=flat-square&logo=Ajax&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp
+  <br>
 </p>
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssomdo&layout=compact)](https://github.com/ssomdo/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssomdo&show_icons=true&theme=transparent)
 </div>
 
 
